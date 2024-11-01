@@ -1,1 +1,1 @@
-# computer-vision-automated-testing
+# lambdatest-auto-healing
